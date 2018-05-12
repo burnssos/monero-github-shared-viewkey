@@ -1,8 +1,12 @@
 # monero-github-shared-viewkey
 Use to test the "notary" potential of Monero Secret View Key and Payment ID field.
 Any Monero sent to either public address will be used to develop, advance, and test the potential of this "notary" idea. All else fails excess Monero will be sent to the development of Monero or OpenAlias. 
+<br>
+<br>
 https://getmonero.org/get-started/contributing/
+<br>
 https://openalias.org/#contribute
+<br>
 <br>
 github-share
 <br>
