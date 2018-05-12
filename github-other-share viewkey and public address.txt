@@ -1,0 +1,14 @@
+github-other-share-viewonly.keys
+sha256sum of file:
+27522266f7fedbbfe5421c8f15dd494529bdcecec57bf61cbea16dfaa32bd05c
+
+wallet password is blank.
+
+Public Address
+48H7BxiWSebSeeq1RHxes8Ha3FtFTGLzK9eZ84yyHFopQCDXB5HTjoKcMPPpZaN5zDhELN1D1oibDDiXHBBYEwqtByZwHAd
+
+Secret view key: b783c466ea389a8a8b069f9dd00fb8ddf0c52859e8dc0d7b4c2b938f9c52ac04
+
+Public view key: aa05262ec94176d35a4b945346409ef084d1516e095ab44c05fc7477b0d06361
+
+Public spend key: af9e561fc5b4009958ade3a91f6b27631039dea1125f2033b32cdf5ffbf9d38a
