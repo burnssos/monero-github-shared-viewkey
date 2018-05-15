@@ -16,3 +16,11 @@ XMR: 42aA6DgMCa3gigJLnahb8cZeSRbE3p94VgNM4BdnnirL7UdcQ7WMkBE42nwqkuJYLc3yffToCY4
 github-other-share
 <br>
 XMR: 48H7BxiWSebSeeq1RHxes8Ha3FtFTGLzK9eZ84yyHFopQCDXB5HTjoKcMPPpZaN5zDhELN1D1oibDDiXHBBYEwqtByZwHAd
+<br>
+<br>
+I plan to test using a file/text hash as a private spend key as described in discussions by dnaleor, results will be visible in this repo.
+<br>
+https://xmr.llcoins.net/addresstests.html
+<br>
+Any further testing will be conducted when bulletproofs are on the mainnet.
+<br>
