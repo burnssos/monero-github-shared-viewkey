@@ -18,9 +18,15 @@ github-other-share
 XMR: 48H7BxiWSebSeeq1RHxes8Ha3FtFTGLzK9eZ84yyHFopQCDXB5HTjoKcMPPpZaN5zDhELN1D1oibDDiXHBBYEwqtByZwHAd
 <br>
 <br>
-I plan to test using a file/text hash as a private spend key as described in discussions by dnaleor, results will be visible in this repo.
+I used the hash of "getmonero.org" as a private spend key as described in discussions by dnaleor (https://github.com/monero-project/monero/issues/3772) . Which is: "8e420d4ef5ec550c289990a6881307a78e4ab441dccb4cbbb0dda8bb6ef18b5d"
+<br>
+Using the luigi1111 website (thank you luigi1111 for llcoins.net!), I determined the public address which is "47WqpxL1yru9nhd6Fyr2daMUqKq9ivLqvBfbGFmwfovnYeeRhikEZLuFuMkpfvarzxTH4ucoFvikpWJNipPM2CWoM8Kjipj" 
+<br>
+<br>
+See more info https://twitter.com/burnssos/status/1000953437880799235
 <br>
 https://xmr.llcoins.net/addresstests.html
 <br>
-Any further testing will be conducted when bulletproofs are on the mainnet.
+<br>
+Further testing will be conducted when bulletproofs are on the mainnet.
 <br>
